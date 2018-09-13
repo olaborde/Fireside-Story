@@ -1,18 +1,18 @@
 body {
+<<<<<<< HEAD
       color: white;
       background-color: #333;
       font-size: 150%;
       font-family: 'Satisfy', cursive;
       margin: 5em 25%;
+=======
+  color: white;
+  background-color: black;
+  font-family: 'Sacramento', cursive;
+  font-size: 150%;
+  margin: 5em 25%;
+>>>>>>> bc6f5ec88e6fa7ff7f1adadf8d491530da41db26
   }
 
-  h1 {
-    text-align: center;
-  }
-
-  .content{
-    padding-left: 600px;
-
-  }
 
   
