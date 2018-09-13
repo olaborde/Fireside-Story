@@ -16,12 +16,12 @@ This lesson reinforces
 Creating Repositories
 Cloning Repositories
 Working with Git Concepts: Staging, Commits, and Status
-Walkthrough
+# Walkthrough
 The instructor will discuss why GitHub is worth their study. You already know how to use a local git repository with one branch, giving you the ability to move your code forward and backward in time. Working with branches on GitHub allows multiple people to build features at the same time. Pull Requests act as a checkpoint when code flows from branch to branch.
 
 Students must pair off for this exercise. If you have trouble finding a partner, ask your TF for help.
 
-Studio
+# Studio
 We are going to play a game. We will play it just like you'd play around a campfire, but on a web page.
 
 First, find a new friend to play the game with.
