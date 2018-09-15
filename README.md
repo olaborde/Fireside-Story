@@ -28,5 +28,5 @@ First, find a new friend to play the game with.
 
 Feel free to share your story in the #showcase channel on Slack, and see what others have created!
 
-You and your partner will alternate tasks, so designate one of you as Player 1 and the other as Player 2. Even when it is not your turn to complete a task, read and observe what your partner is doing to completed theirs. The steps here mimic how a real-world collaborative Git workflow can be used within a project.
+You and your partner will alternate tasks, so designate one of you as Player 1 and the other as Player 2. Even when it is not your turn to complete a task, read and observe what your partner is doing to completed theirs. The steps here mimic how a real-world collaborative Git workflow can be used within a project.!
 
